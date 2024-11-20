@@ -12,8 +12,8 @@ def date_to_string(date):
 
 
 users = [
-    {"name": "Bill Gates", "birthday": "1955.3.25"},
-    {"name": "Steve Jobs", "birthday": "1955.3.21"},
+    {"name": "Bill Gates", "birthday": "1955.03.25"},
+    {"name": "Steve Jobs", "birthday": "1955.03.21"},
     {"name": "Jinny Lee", "birthday": "1956.11.22"},
     {"name": "John Doe", "birthday": "1985.01.23"},
     {"name": "Jane Smith", "birthday": "1990.01.27"}
